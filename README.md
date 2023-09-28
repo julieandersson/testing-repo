@@ -9,6 +9,7 @@ Denna uppgift består utav totalt 3 delar:
 - Del 2.2. Skapa en personlig README-fil
 
 > Ovan använder jag "#" (hashtecken) för att skapa min rubrik. Ju fler "#" jag använder, desto mindre blir rubriken. Jag har även gjort en oordnad (punkterad) lista, som jag gör genom att använda "-" för varje rad.
+I dessa citatblock som jag skriver just nu, har jag använt mig utav ">" som jag sätter innan texten jag vill få med i citatblocket. 
 
 ### Kort om mig:
 Mitt namn är Julie, jag är 23 år gammal och pluggar webbutvecklingsprogrammet på Mittuniversitetet. Jag har en rad olika hobbyer som jag gillar att syssla med på min fritid:
