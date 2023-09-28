@@ -28,17 +28,23 @@ Mitt namn är Julie, jag är 23 år gammal och pluggar webbutvecklingsprogrammet
 
 > Ovan har jag skrivit två rader med information om mig i fet och kursiv text. För att skriva fet text i Markdown använder jag dubbla asterisker (**) och för att skriva kursiv text använder jag enkla asterisker (*).
 
+
 Just nu läser jag två kurser samtidigt på webbutvecklingsprogrammet:
 
 | Kurs 1 | Kurs 2 |
 | -------- | -------- |
 | Introduktion till programmering i Javascript | Webbutveckling 1 |
 
-> Ovan har jag skapat en tabell där jag visar de två kurserna jag läser just nu. För att skapa tabellen har jag använt mig utav rörstreck (|) för att separera kolumner och bindestreck (-) för att definiera tabellhuvudet. 
+
+> Ovan har jag skapat en tabell där jag visar de två kurserna jag läser just nu. För att skapa tabellen har jag använt mig utav rörstreck (|) för att separera kolumner och bindestreck (-) för att definiera tabellhuvudet.
+
 
 Som jag listade tidigare i mina hobbyer, är ett av mina största intressen att resa. Nedan är en bild från Thailand som jag tog i Januari 2023. 
 
 ![Thailand](https://studenter.miun.se/~juan2301/dt057g/Moment3.2/thailand.jpg)
+
+> Ovan har jag bäddat in en bild genom att använda mig utav rätt syntax för just inbäddning av bilder i Markdown.
+
 
 
 
