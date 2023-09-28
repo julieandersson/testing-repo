@@ -27,3 +27,14 @@ Mitt namn är Julie, jag är 23 år gammal och pluggar webbutvecklingsprogrammet
 *Jag flyttade till Israel efter att ha haft ett år långdistans med min pojkvän, då han bor och kommer härifrån.*
 
 > Ovan har jag skrivit två rader med information om mig i fet och kursiv text. För att skriva fet text i Markdown använder jag dubbla asterisker (**) och för att skriva kursiv text använder jag enkla asterisker (*).
+
+Just nu läser jag två kurser samtidigt på webbutvecklingsprogrammet:
+
+| Kurs 1 | Kurs 2 |
+| -------- | -------- |
+| Introduktion till programmering i Javascript | Webbutveckling 1 |
+
+> Ovan har jag skapat en tabell där jag visar de två kurserna jag läser just nu. För att skapa tabellen har jag använt mig utav rörstreck (|) för att separera kolumner och bindestreck (-) för att definiera tabellhuvudet. 
+
+
+
