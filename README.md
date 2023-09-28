@@ -21,6 +21,8 @@ Mitt namn är Julie, jag är 23 år gammal och pluggar webbutvecklingsprogrammet
 
 > Ovan har jag skapat en mindre rubrik med totalt 3 stycken "#" för att styra storleken, samt listat mina olika hobbyer i en ordnad (numrerad) lista genom att använde mig utav nummer, tex 1-5, en för varje rad.
 
-** Jag är född och uppvuxen i lilla Kalmar i Sverige, men bor sedan maj 2023 i Israel. **
+**Jag är född och uppvuxen i lilla Kalmar i Sverige, men bor sedan maj 2023 i Israel.**
 
-* Jag flyttade till Israel efter att ha haft ett år långdistans med min pojkvän, då han bor och kommer härifrån. *
+*Jag flyttade till Israel efter att ha haft ett år långdistans med min pojkvän, då han bor och kommer härifrån.*
+
+> Ovan har jag skrivit två rader med information om mig i fet och kursiv text. För att skriva fet text i Markdown använder jag dubbla asterisker (**) och för att skriva kursiv text använder jag enkla asterisker (*).
