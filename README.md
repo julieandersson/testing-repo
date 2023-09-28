@@ -38,4 +38,8 @@ Just nu läser jag två kurser samtidigt på webbutvecklingsprogrammet:
 
 Som jag listade tidigare i mina hobbyer, är ett av mina största intressen att resa. Nedan är en bild från Thailand som jag tog i Januari 2023. 
 
+![Thailand](https://studenter.miun.se/~juan2301/dt057g/Moment3.2/thailand.jpg)
+
+
+
 
