@@ -15,7 +15,7 @@ I dessa citatblock som jag skriver just nu, har jag använt mig utav ">" som jag
 Mitt namn är Julie, jag är 23 år gammal och pluggar webbutvecklingsprogrammet på Mittuniversitetet. Jag har en rad olika hobbyer som jag gillar att syssla med på min fritid:
 1. Surfa
 2. Gymma
-3. Dreja
+3. Resa
 4. Laga mat
 5. Umgås med vänner
 6. Sjunga
@@ -36,5 +36,6 @@ Just nu läser jag två kurser samtidigt på webbutvecklingsprogrammet:
 
 > Ovan har jag skapat en tabell där jag visar de två kurserna jag läser just nu. För att skapa tabellen har jag använt mig utav rörstreck (|) för att separera kolumner och bindestreck (-) för att definiera tabellhuvudet. 
 
+Som jag listade tidigare i mina hobbyer, är ett av mina största intressen att resa. Nedan är en bild från Thailand som jag tog i Januari 2023. 
 
 
